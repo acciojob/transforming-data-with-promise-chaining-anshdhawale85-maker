@@ -46,7 +46,7 @@ btn.onclick = function () {
       return new Promise((resolve) => {
         setTimeout(() => {
           let add = result + 10;
-          output.innerText = `Result: ${add}`;
+          output.innerText = `Final Result: ${add}`;
           resolve(add);
         }, 1000);
       });
