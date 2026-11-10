@@ -1,1 +1,16 @@
 //your JS code here. If required.
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <!-- do not change this code -->
+    <input type="number" id="ip" />
+    <button id="btn">Start</button>
+    <div id="output"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
